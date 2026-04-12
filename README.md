@@ -1,3 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliasschlinkert&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliaschlinkert&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasschlinkert&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliaschlinkert&layout=compact)
