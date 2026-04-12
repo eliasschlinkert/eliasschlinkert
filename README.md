@@ -1,5 +1,7 @@
 <div align="center">
 
-<img src="https://stats-api-gamma.vercel.app/api?username=eliasschlinkert&show_icons=true&theme=buefy" />
+<p align="center">
+  <img height="180em" src="https://stats-api-gamma.vercel.app/api/top-langs/?username=eliasschlinkert&layout=compact&theme=buefy&hide_border=true" />
+</p>
 
 </div>
