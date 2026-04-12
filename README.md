@@ -1,4 +1,7 @@
-<p align="center">
-  <img src="stats-api-gamma.vercel.app/api?username=eliaschlinkert&show_icons=true&theme=tokyonight" />
-  <img src="stats-api-gamma.vercel.app/api/top-langs/?username=eliaschlinkert&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+
+![GitHub Stats](stats-api-gamma.vercel.app/api?username=eliaschlinkert&show_icons=true&theme=tokyonight)
+
+![Top Langs](stats-api-gamma.vercel.app/api/top-langs/?username=eliaschlinkert&layout=compact)
+
+</div>
